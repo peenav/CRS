@@ -57,4 +57,4 @@ For questions or support, please contact the project maintainer at [your-email@e
 
 ---
 
-Thank you for using the CRS project! We hope it simplifies your course registration process.
+Thank you for using the CRS project!
