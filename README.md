@@ -47,14 +47,6 @@ We welcome contributions to enhance the CRS project. To contribute:
 4. Push your changes to your forked repository:git push origin feature-name
 5. Open a pull request detailing your changes.
 
-License
--------
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-Contact
--------
-For questions or support, please contact the project maintainer at [your-email@example.com].
-
 ---
 
 Thank you for using the CRS project!
